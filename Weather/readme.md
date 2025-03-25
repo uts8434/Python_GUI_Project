@@ -24,7 +24,7 @@ A user-friendly Python-based desktop application that provides real-time weather
 ---
 
 ## 🚀 How to Run the Application  
-
+--
 ### Prerequisites  
 Ensure that you have the following installed:  
 - **Python 3.x**  
